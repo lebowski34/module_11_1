@@ -1,0 +1,6 @@
+name age city
+Mike 45 Chicago
+Sara 22 Houston
+Tom 32 Miami
+Chris 29 Boston
+Kate 31 Seattle
